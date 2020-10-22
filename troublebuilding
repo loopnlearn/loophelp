@@ -1,0 +1,43 @@
+This doc only covers BUILD errors, if you are looking for operational or settings help, this doc does not have the information you are looking for.
+
+To get the best chance at having someone actually help you, you need to help them first by providing some information.   The more experienced volunteers are going to ignore a request for help that doesn’t have sufficient information to be able to diagnose your problem and offer a solution or tips.   There are so many requests for help across the various forums, groups, platforms, that the ones that look like they are going to take hours of back and forth to pry the useful info out of you are the ones the best people skip over.   There are only so many people a volunteer can help in a day.
+
+Start by trying everything in this document that applies to your situation:
+
+https://loopkit.github.io/loopdocs/build/build_errors 
+
+If that doesn’t resolve the issue, there is a “Posting for help” portion of that document.  Follow the instructions in that section, especially the parts in the green box.
+
+Go to develop.apple.com and see if you have to accept a new license agreement or terms.   State that you have done this in your request for help.
+
+Make a post in ONE PLACE (don’t spam multiple FB groups and Telegram and Github, you are just wasting volunteers valuable time).
+
+You might be able to save yourself some time by looking at the last couple days of posts in the Looped and SoCal Loopers groups.    If your problem is something new and known, it is likely someone else already posted about it in the last day or two.
+
+https://www.facebook.com/groups/TheLoopedGroup
+
+https://www.facebook.com/groups/SoCalLoopers (now a global group since the Pandemic)
+
+When you are ready to make your post, collect all of the following information.
+
+Exact Version of Xcode:
+Exact Version of Catalina: 
+Branch of Loop, and URL you downloaded from:
+Version number from the branch:
+Date downloaded (very important), if in the last two days, include the time and timezone:
+Exact Version of iOS on your phone:
+Free or Paid developer account:
+Confirm that you went to develop.apple.com to look for new terms and conditions:
+Confirm that you are NOT using any beta versions of anything.
+If you need to provide info from a screen, TAKE A SCREEN SHOT, NOT A PHOTO.
+Include the ENTIRE window, not just the part you think is important.
+If there is a RED error in the build window click on it and expand it before taking the screen shot.  If there are multiple RED errors, expand all of them and leave your focus on the last one.
+State exactly what fixes you have tried from the link above.   If you skipped some, state why.
+Tell if it was working and a build over the top of a working loop failed, or if this is the first time building to this device.
+Include any other information that might help someone help you faster.
+
+Once you start accepting help from an individual, stick with that ONE person until you have exhausted that path.   It is very frustrating for a volunteer to be trying to help someone, and they try two other things in the middle of you helping them that blows out the steps they were trying to walk you through so they have to start again.    They will probably just give up on you, there are only so many people that one volunteer can help in a day, or week.
+
+If someone helps you, make sure to give them feedback, did it fix your problem, are you still stuck?   Are you thankful for the help?
+
+
